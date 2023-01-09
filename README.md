@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aiman</h1>
-<h3 align="center">A cluelessly curious learner who is perusing Computer Engineering from University of Alberta</h3>
+<h3 align="center">A cluelessly curious learner who is perusing Computer Engineering</h3>
 
 <img align="right" alt="coding gif" width="250" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
